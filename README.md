@@ -116,6 +116,7 @@ Criação de um **script em lote**, editado via **VI**, para automatizar futuras
 ## ✅ Resultado final
 
 Site estático da cafeteria **"Café"** publicado com sucesso no Amazon S3, acessível publicamente em `awsbrsao272.s3.us-west-2.amazonaws.com/index.html`, exibindo produtos como croissants, pães e bolos. 🎉☕
+
 ![RESULTADO FINAL](./imagem/resultado-final.png)
 ---
 
